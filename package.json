@@ -1,0 +1,22 @@
+{
+  "name": "ga-github-verification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazarioa/ga-github-verification.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazarioa/ga-github-verification/issues"
+  },
+  "homepage": "https://github.com/nazarioa/ga-github-verification#readme",
+  "dependencies": {
+    "css-reset-and-normalize": "^0.3.0"
+  }
+}
